@@ -1,5 +1,5 @@
 *{
-    font-family: monserrate;
+    font-family: Parkinsans, sans-serif;
 }
 
 body{
@@ -72,6 +72,11 @@ body{
     height: 100vh;
 }
 
+
+.services .card-body i{
+    font-size: 50px;
+}
+
 /* *** responsive css *** */
 
 @media only screen and (min-width:768px) and (max-width: 911px){
@@ -104,4 +109,7 @@ body{
     }
 }
 
+.about-section-padding{
+    padding-top: 40px;
+}
 
